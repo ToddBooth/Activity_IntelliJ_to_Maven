@@ -1,7 +1,7 @@
 import org.testng.annotations.Test;
 
-public class Class1 {
-    public Class1() {
+public class Class1Test {
+    public Class1Test() {
         System.out.println("Hello Class1.");
     }
 
